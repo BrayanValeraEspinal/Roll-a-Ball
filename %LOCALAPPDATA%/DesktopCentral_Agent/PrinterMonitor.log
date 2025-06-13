@@ -1,0 +1,24 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+12-06-2025	23:33:40.256	 INFO	 31764	 33740	DllMain	"DLL_PROCESS_ATTACH Fri Apr  4 13:27:46 2025 11.4.2500.24"
+12-06-2025	23:33:40.258	 INFO	 31764	 33740	DllMain	"PROCESS ATTACHED"
+12-06-2025	23:33:40.259	 INFO	 31764	 39452	LateInitialization	"Intialization..."
+12-06-2025	23:33:40.259	 INFO	 31764	 39452	LoadDisplayDevicesName	"DisplayDevices : "
+12-06-2025	23:33:40.259	 INFO	 31764	 39452	LoadDisplayDevicesName	"\\.\DISPLAY1"
+12-06-2025	23:33:40.260	 INFO	 31764	 39452	LoadDisplayDevicesName	"\\.\DISPLAY2"
+12-06-2025	23:33:40.260	 INFO	 31764	 39452	LoadDisplayDevicesName	"\\.\DISPLAY3"
+12-06-2025	23:33:40.261	 INFO	 31764	 39452	LoadDisplayDevicesName	"\\.\DISPLAY4"
+12-06-2025	23:33:43.268	 INFO	 31764	 39452	LateInitialization	"Exe = \\?\C:\WINDOWS\system32\conhost.exe
+ProductName = Sistema operativo MicrosoftÂ® WindowsÂ®
+FileDescription = Host de ventana de consola
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 13291968
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+12-06-2025	23:33:43.269	 INFO	 31764	 39452	LateInitialization	"Intialization finished"
+12-06-2025	23:33:46.641	 INFO	 31764	 10116	DllMain	"DLL_PROCESS_DETACH"
+12-06-2025	23:33:46.643	 INFO	 31764	 10116	DllMain	"PROCESS DETACHED"
